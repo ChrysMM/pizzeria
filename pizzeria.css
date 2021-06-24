@@ -1,0 +1,38 @@
+body {
+    background-color: #EFECCA
+    }
+    
+    h1{
+    color: #C03000;
+    font-family: Helvetica;	
+    }
+    
+    h2{
+    color: #4BB5C1;	
+    font-family: Helvetica;	
+    }
+    
+    ul [href="#"]{
+    font-family: Arial;
+    color: #EFECCA;
+    text-decoration: none;
+    padding: 5px;
+    background-color: #C03000;
+    border: solid #660000
+    }
+    
+    footer [href="#"]{
+    font-family: Arial;
+    font-weight: bold;
+    color: #0000FF,;
+    text-decoration: none;
+    }
+    
+    ul li{
+    display:inline;
+    }
+    
+    ul{
+    list-style-type: none;
+    
+    }
